@@ -1,5 +1,3 @@
-using jQuery Ajax to fetch dada from Google Play
-
 <p align="center">
   <img src="result.gif" width="350"/>
 </p>
