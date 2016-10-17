@@ -6,7 +6,7 @@ body {
 }
 
 .slider {
-    width: 90%;
+    height: 600px;
     position: relative;
     left:0px;
 }
@@ -18,7 +18,12 @@ body {
     left: 0;
 }
 
-
+.col-md-12,.row {
+  height:100%;
+}
+.row > div {
+  height:100%;
+}
 
 /************************
 button******************/
