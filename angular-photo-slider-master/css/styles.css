@@ -1,0 +1,29 @@
+
+
+body {
+    overflow: hidden;
+    background-color: #000;
+}
+
+.slider {
+    width: 90%;
+    position: relative;
+    left:0px;
+}
+
+.slide {
+    width: 90%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+
+/************************
+button******************/
+
+.button-c {
+    right:0px;
+}
+
